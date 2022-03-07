@@ -1,0 +1,341 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #a2dac9;
+    width: 100%;
+    height: 100vh;
+    
+}
+.mountain{
+    /* background-color: red; */
+    width: 30%;
+    height: auto;
+    position: absolute;
+    top: 313px;
+    left: 400px;
+}
+.cloud1{
+    /* background-color: blue; */
+    position: absolute;
+    top: 230px;
+    left: 160px;
+    width: 8%;
+    height: auto;
+}
+.cloud2{
+    /* background-color: blue; */
+    position: absolute;
+    right: 200px;
+    width: 8%;
+    height: auto;
+    top: 30px;
+}
+.h2{
+    /* background-color: red; */
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 80px ;
+    font-size: 50px;
+    font-family: italic;
+    color: white;
+}
+.h4{
+    /* background-color: rgb(4, 121, 14); */
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 80px ; 
+    font-size: 20px;
+    font-family: italic;
+    color: rgb(31, 190, 98);
+}
+.container2{
+    width: 100%;
+    height: 200vh;
+}
+.section1{
+    /* background-color: red; */
+    width: 50%;
+    margin: 0 auto;
+    height: 200vh;
+    font-size: 16px;
+}
+
+.roland{
+    width: 30%;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.p1{
+    position: relative;
+    top: 10%;
+    left: 44%;
+    font-size: 20px;
+}
+.p2{
+    /* background-color: blue; */
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+.p3{
+    /* background-color: blue; */
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-size: x-small;
+}
+.h3{
+    /* background-color: blue; */
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    position: relative;
+    top: 270px;
+    font-size: 25px;
+    color: aqua;
+}
+.hr1{
+    /* background-color: blue; */
+    width: 99%;
+    position: relative;
+    top: 320px;
+    border: 2px solid rgb(70, 64, 64);
+}
+.computer{
+    width: 26%;
+    /* background-color: aqua; */
+    position: relative;
+    top: 325px;
+}
+.h41{
+    /* background-color: blue; */
+    position: relative;
+    top: 170px;
+    left: 220px;
+    color: aqua;
+}
+.p4{
+    /* background-color: blue; */
+    width: 75%;
+    position: relative;
+    top: 210px;
+    left: 162px;
+    font-size: 16px;
+}
+.teacher{
+    width: 26%;
+    /* background-color: aqua; */
+    position: relative;
+    top: 325px;
+   left: 449px;
+}
+.h42{
+    /* background-color: blue; */
+    position: relative;
+    top: 170px;
+    color: aqua;
+    
+}
+.p5{
+    /* background-color: blue; */
+    width: 74%;
+    position: relative;
+    top: 210px;
+    font-size: 16px;
+}
+.p6{
+    /* background-color: blue; */
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: x-small; 
+}
+.container3{
+    background-color: #a2dac9;
+    width: 100%;
+    height: 100vh;
+    
+}
+.portolio{
+    text-align: center;
+    position: relative;
+    top: 60px;
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+.jpg1{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 90px;
+    left: 300px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg1:hover{
+    transform: scale(1.2);
+}
+.jpg2{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 90px;
+    left: 310px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg2:hover{
+    transform: scale(1.2);
+}
+.jpg3{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 90px;
+    left: 320px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg3:hover{
+    transform: scale(1.2);
+}
+.jpg4{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 300px;
+    right:313px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg4:hover{
+    transform: scale(1.2);
+}
+.jpg5{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 300px;
+    right:303px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg5:hover{
+    transform: scale(1.2);
+}
+.jpg6{
+    /* padding: 90px 90px ; */
+    position: relative;
+    top: 95px;
+    left:730px;
+    border-color: green;
+    /* transform: scale(1.5); */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.jpg6:hover{
+    transform: scale(1.2);
+}
+.container4{
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+}
+.h34{
+    text-align: center;
+    padding: 150px;
+    color: aqua;
+    font-weight: bold;
+}
+.p7{
+    /* background-color: blue; */
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    color: aqua;
+}
+.p8{
+    /* background-color: red; */
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    color: aqua;
+}
+.p9{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: x-small; 
+    color: aqua;
+}
+.nav1{
+    background-color:  #a2dac9;
+    position: relative;
+    padding: 60px 60px;
+}
+li{
+    /* background-color: blue; */
+    display: inline-block;
+    padding: 20px 60px;
+    position: relative;
+    left: 300px;
+    /* text-align: center; */
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+.cont{
+    background-color: aqua;
+    border-radius: 5px;
+    position: relative;
+    bottom: 50px;
+    left: 700px;
+    padding: 5px 5px ;
+    font-weight: bold;
+}
+.cont:hover{
+    background-color: green;
+    color: gainsboro;
+}
+.p10{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 40px;
+}
